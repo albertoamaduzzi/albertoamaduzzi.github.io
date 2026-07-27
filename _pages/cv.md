@@ -36,6 +36,7 @@ Work experience
 Projects
 ======
 * **CaLIGOLA**, Oct 2023 &ndash; Apr 2024
+  * Visiting period at UC Berkeley.
 
 Skills
 ======
